@@ -147,7 +147,34 @@ string (válido, embora URLs distintas por idioma fossem o ideal).
 
 ## Estado desta entrega
 
-Build de produção validado localmente em `dist/`.  
-**Não** foi executado commit, push, PR, merge ou deploy, e **não** foram alterados
-repositórios/publicações no GitHub nem os projetos PALCO Angola, Nativo Sabe e
-RETROGAMER-1986.
+Build de produção validado localmente em `dist/` (`npm run build`).
+
+### Site definitivo
+
+**https://rafaelgraffo.github.io/** — servido pelo repositório publicado
+`rafaelgraffo.github.io` (ramo `main`), publicado pela Missão 02 a 17/nov.
+É o único endereço com conteúdo e o `canonical` de todas as páginas.
+
+### Repositório `portfolio-rafael-cardoso` (cópia / backup)
+
+Criado a 18/nov por autorização explícita, com `main` (código-fonte) e
+`gh-pages`. O GitHub recusou desativar o Pages por API
+(*"Deactivating GitHub pages for this repository is not allowed"*, HTTP 422),
+pelo que o ramo `gh-pages` passou a conter apenas uma página mínima de
+**redireccionamento** para `https://rafaelgraffo.github.io/`, com
+`rel="canonical"` para a raiz e `noindex`. Assim o endereço
+`https://rafaelgraffo.github.io/portfolio-rafael-cardoso/` **não duplica
+conteúdo** e encaminha os visitantes para o site definitivo.
+
+Nada foi apagado: o repositório, ambos os ramos e todo o código-fonte
+permanecem intactos. Para voltar a publicar o backup basta repor o `dist/`
+em `gh-pages` (`npm run build` + push).
+
+### Limites respeitados
+
+Não foram alterados os repositórios/publicações existentes
+(`rafaelgraffo.github.io`, `portif-lio`, repo de perfil `rafaelgraffo`) nem os
+projectos PALCO Angola, Nativo Sabe e RETROGAMER-1986. Não houve PR nem merge.
+Os commits/pushes realizados ocorreram apenas no repositório novo e foram
+explicitamente autorizados. O token de autenticação nunca foi escrito em
+ficheiros nem no `.git/config`.
