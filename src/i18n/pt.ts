@@ -4,7 +4,7 @@ export const pt: Translation = {
   meta: {
     title: "Rafael Cardoso — Gestão de TI & Engenharia de Software",
     description:
-      "Portfólio de Rafael Cardoso. Mais de dez anos em Tecnologia da Informação, com atuação em gestão de TI, operações, infraestrutura, suporte e liderança, em transição para engenharia de software, Cloud e DevOps.",
+      "Portfólio de Rafael Cardoso. Mais de 20 anos (desde 2005) em Tecnologia da Informação, com atuação em gestão de TI, operações, infraestrutura, suporte e liderança, em transição para engenharia de software, Cloud e DevOps.",
   },
   a11y: {
     skip: "Pular para o conteúdo",
@@ -27,7 +27,7 @@ export const pt: Translation = {
     name: "Rafael Cardoso",
     role: "Gestão de TI & Engenharia de Software",
     description:
-      "Mais de dez anos em Tecnologia da Informação entre suporte, infraestrutura, operações e gestão de TI. Sigo agora em transição para engenharia de software, Cloud e DevOps, unindo experiência operacional a estudo contínuo.",
+      "Mais de 20 anos (desde 2005) em Tecnologia da Informação entre suporte, infraestrutura, operações e gestão de TI. Sigo agora em transição para engenharia de software, Cloud e DevOps, unindo experiência operacional a estudo contínuo.",
     projectsCta: "Ver projetos",
     githubCta: "GitHub",
     photoAlt: "Foto de perfil de Rafael Cardoso",
@@ -37,7 +37,7 @@ export const pt: Translation = {
     eyebrow: "01 / SOBRE",
     title: "Sobre mim",
     paragraphs: [
-      "Construí minha trajetória em Tecnologia da Informação ao longo de mais de dez anos, com foco em suporte técnico. O dia a dia com sistemas, pessoas e processos me deu uma visão prática de infraestrutura, operações e gestão de TI.",
+      "Construí minha trajetória em Tecnologia da Informação ao longo de mais de 20 anos (desde 2005), com foco em suporte técnico. O dia a dia com sistemas, pessoas e processos me deu uma visão prática de infraestrutura, operações e gestão de TI.",
       "Dessa base vieram a liderança de equipes e a melhoria contínua: documentar, padronizar e simplificar sempre fizeram parte do trabalho. É sobre essa experiência que venho evoluindo para engenharia de software, Cloud Computing e DevOps.",
       "Estudo de forma contínua e avanço com projetos práticos, conectando o que aprendo a problemas reais, sem deixar de lado o rigor operacional que trouxe da área de TIC.",
     ],

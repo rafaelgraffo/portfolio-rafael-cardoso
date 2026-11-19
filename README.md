@@ -82,13 +82,13 @@ src/
 
 ## Conteúdo — origem e limites
 
-Foram usadas **apenas informações públicas e verificáveis**:
+Foram usadas informações públicas verificáveis e dados confirmados pelo próprio Rafael:
 
 | Dado | Origem |
 |---|---|
 | Nome, utilizador GitHub, foto | `api.github.com/users/rafaelgraffo` + avatar público |
 | LinkedIn | Página pública publicada no GitHub Pages |
-| Mais de 10 anos de TIC, foco em suporte técnico | README público do perfil GitHub |
+| Mais de 20 anos de atuação em TI (desde 2005), foco em suporte técnico | Confirmado pelo próprio Rafael (Missão 07 / CVs locais) |
 | Transição para Cloud / AWS / DevOps, Java, JS, CSS | README público do perfil GitHub |
 | AWS Certified Cloud Practitioner + badge Credly | README público do perfil GitHub |
 | Estudo para AWS Solutions Architect Associate | README público do perfil GitHub |

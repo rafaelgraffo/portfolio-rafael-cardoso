@@ -4,7 +4,7 @@ export const en: Translation = {
   meta: {
     title: "Rafael Cardoso — IT Management & Software Engineering",
     description:
-      "Portfolio of Rafael Cardoso: over ten years in Information Technology across IT management, operations, infrastructure, support and leadership, now moving into software engineering, Cloud and DevOps.",
+      "Portfolio of Rafael Cardoso: over 20 years in IT (since 2005) across IT management, operations, infrastructure, support and leadership, now moving into software engineering, Cloud and DevOps.",
   },
   a11y: {
     skip: "Skip to content",
@@ -27,7 +27,7 @@ export const en: Translation = {
     name: "Rafael Cardoso",
     role: "IT Management & Software Engineering",
     description:
-      "Over ten years in Information Technology across technical support, infrastructure, operations and IT management. I am now moving into software engineering, Cloud and DevOps, combining operational experience with continuous learning.",
+      "Over 20 years in IT (since 2005) across technical support, infrastructure, operations and IT management. I am now moving into software engineering, Cloud and DevOps, combining operational experience with continuous learning.",
     projectsCta: "View projects",
     githubCta: "GitHub",
     photoAlt: "Profile photo of Rafael Cardoso",
@@ -37,7 +37,7 @@ export const en: Translation = {
     eyebrow: "01 / ABOUT",
     title: "About me",
     paragraphs: [
-      "I built my career in Information Technology over more than ten years, focused on technical support. Working daily with systems, people and processes gave me a practical view of infrastructure, operations and IT management.",
+      "I built my career in Information Technology over more than 20 years (since 2005), focused on technical support. Working daily with systems, people and processes gave me a practical view of infrastructure, operations and IT management.",
       "That foundation led to team leadership and continuous improvement: documenting, standardising and simplifying were always part of the job. It is on top of that experience that I am now growing into software engineering, Cloud Computing and DevOps.",
       "I study continuously and move forward through hands-on projects, connecting what I learn to real problems while keeping the operational discipline I brought from IT.",
     ],

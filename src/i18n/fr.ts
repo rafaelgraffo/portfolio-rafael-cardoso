@@ -4,7 +4,7 @@ export const fr: Translation = {
   meta: {
     title: "Rafael Cardoso — Gestion informatique & génie logiciel",
     description:
-      "Portfolio de Rafael Cardoso : plus de dix ans dans les technologies de l'information, en gestion informatique, opérations, infrastructure, support et leadership, en transition vers le génie logiciel, le Cloud et le DevOps.",
+      "Portfolio de Rafael Cardoso : plus de 20 ans (depuis 2005) dans les technologies de l'information, en gestion informatique, opérations, infrastructure, support et leadership, en transition vers le génie logiciel, le Cloud et le DevOps.",
   },
   a11y: {
     skip: "Aller au contenu",
@@ -27,7 +27,7 @@ export const fr: Translation = {
     name: "Rafael Cardoso",
     role: "Gestion informatique & génie logiciel",
     description:
-      "Plus de dix ans dans les technologies de l'information, entre support technique, infrastructure, opérations et gestion informatique. Je poursuis aujourd'hui une transition vers le génie logiciel, le Cloud et le DevOps, en alliant expérience opérationnelle et apprentissage continu.",
+      "Plus de 20 ans (depuis 2005) dans les technologies de l'information, entre support technique, infrastructure, opérations et gestion informatique. Je poursuis aujourd'hui une transition vers le génie logiciel, le Cloud et le DevOps, en alliant expérience opérationnelle et apprentissage continu.",
     projectsCta: "Voir les projets",
     githubCta: "GitHub",
     photoAlt: "Photo de profil de Rafael Cardoso",
@@ -37,7 +37,7 @@ export const fr: Translation = {
     eyebrow: "01 / À PROPOS",
     title: "À propos de moi",
     paragraphs: [
-      "J'ai construit mon parcours dans les technologies de l'information pendant plus de dix ans, axé sur le support technique. Le quotidien avec les systèmes, les personnes et les processus m'a donné une vision concrète de l'infrastructure, des opérations et de la gestion informatique.",
+      "J'ai construit mon parcours dans les technologies de l'information pendant plus de 20 ans (depuis 2005), axé sur le support technique. Le quotidien avec les systèmes, les personnes et les processus m'a donné une vision concrète de l'infrastructure, des opérations et de la gestion informatique.",
       "Cette base m'a mené au leadership d'équipe et à l'amélioration continue : documenter, standardiser et simplifier ont toujours fait partie du travail. C'est sur cette expérience que j'évolue aujourd'hui vers le génie logiciel, le Cloud Computing et le DevOps.",
       "J'étudie de façon continue et j'avance par des projets concrets, en reliant ce que j'apprends à des problèmes réels, sans perdre la rigueur opérationnelle acquise dans les TI.",
     ],
